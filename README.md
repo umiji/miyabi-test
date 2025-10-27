@@ -23,3 +23,6 @@ Miyabi autonomous development project.
 
 - See `docs/` directory for detailed documentation
 - See `.claude/agents/specs/` for agent specifications
+
+
+##Command list
